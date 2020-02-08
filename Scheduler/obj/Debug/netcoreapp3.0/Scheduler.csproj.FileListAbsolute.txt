@@ -1,0 +1,13 @@
+C:\Users\Merse\source\repos\Scheduler\Scheduler\bin\Debug\netcoreapp3.0\Scheduler.exe
+C:\Users\Merse\source\repos\Scheduler\Scheduler\bin\Debug\netcoreapp3.0\Scheduler.deps.json
+C:\Users\Merse\source\repos\Scheduler\Scheduler\bin\Debug\netcoreapp3.0\Scheduler.runtimeconfig.json
+C:\Users\Merse\source\repos\Scheduler\Scheduler\bin\Debug\netcoreapp3.0\Scheduler.runtimeconfig.dev.json
+C:\Users\Merse\source\repos\Scheduler\Scheduler\bin\Debug\netcoreapp3.0\Scheduler.dll
+C:\Users\Merse\source\repos\Scheduler\Scheduler\bin\Debug\netcoreapp3.0\Scheduler.pdb
+C:\Users\Merse\source\repos\Scheduler\Scheduler\obj\Debug\netcoreapp3.0\Scheduler.csprojAssemblyReference.cache
+C:\Users\Merse\source\repos\Scheduler\Scheduler\obj\Debug\netcoreapp3.0\Scheduler.AssemblyInfoInputs.cache
+C:\Users\Merse\source\repos\Scheduler\Scheduler\obj\Debug\netcoreapp3.0\Scheduler.AssemblyInfo.cs
+C:\Users\Merse\source\repos\Scheduler\Scheduler\obj\Debug\netcoreapp3.0\Scheduler.dll
+C:\Users\Merse\source\repos\Scheduler\Scheduler\obj\Debug\netcoreapp3.0\Scheduler.pdb
+C:\Users\Merse\source\repos\Scheduler\Scheduler\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Merse\source\repos\Scheduler\Scheduler\obj\Debug\netcoreapp3.0\Scheduler.csproj.CopyComplete
